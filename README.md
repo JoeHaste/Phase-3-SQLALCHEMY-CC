@@ -3,6 +3,13 @@
 # About
 This is a continuation of the previous code challenge only this time with the use of sqlalchemy. It's testing us on creating,reading,updating and deleting databases.
 
+# Setup
+- Fork repository from github account
+- Clone into your local machine
+- Navigate into file
+- Run pipenv install to get basic packages
+- Run python file
+
 # You Require Knowledge On
 - SQLAlchemy Migrations
 
